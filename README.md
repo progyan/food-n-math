@@ -8,5 +8,5 @@ An application for kids to learn math.
 
 *Hot news!*
 
-* _New!_ levels/experiments/templates/template1/[Link](https://github.com/progyan/food-n-math/blob/code/levels/experiments/templates/template1/index.html)
+* _New!_ levels/experiments/templates/template1/[index.html](https://github.com/progyan/food-n-math/blob/code/levels/experiments/templates/template1/index.html)
 * Changed README.md
